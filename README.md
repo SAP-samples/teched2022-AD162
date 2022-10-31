@@ -1,12 +1,12 @@
-# Session ID - Session Title
+# AD162 - Build and Extend Apps with ABAP RESTful Application Programming Model
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called AD162 - Build and Extend Apps with ABAP RESTful Application Programming Model.  
 
 ## Overview
 
-This session introduces attendees to...
+Do you want to build modern, cloud-ready, ABAP-based applications or extensions on SAP Business Technology Platform? Then ABAP RESTful application programming model is the right choice for you. Join us to learn how to use the latest and greatest ABAP capabilities, such as the enhanced core data services and ABAP programming language with its entity manipulation language and business services, to build transactional SAP Fiori apps. Focus is on the back-end implementation of SAP Fiori apps.
 
 ## Requirements
 
