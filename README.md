@@ -8,30 +8,36 @@ This repository contains the material for the SAP TechEd 2022 session called AD1
 
 Do you want to build modern, cloud-ready, ABAP-based applications or extensions on SAP Business Technology Platform? Then ABAP RESTful application programming model is the right choice for you. Join us to learn how to use the latest and greatest ABAP capabilities, such as the enhanced core data services and ABAP programming language with its entity manipulation language and business services, to build transactional SAP Fiori apps. Focus is on the back-end implementation of SAP Fiori apps.
 
+#### About the ABAP RESTful Application Programming Model
+  > The ABAP RESTful Application Programming Model (RAP) is a set of concepts, tools, languages, and powerful frameworks provided on the ABAP platform. It supports the efficient development of innovative and cloud-ready enterprise applications, as well as the extension of SAP standard applications in an upgrade-stable way in the cloud and on-premise.
+
+<details>
+<summary>Click to expand!</summary>
+
+> RAP is an enabler for improving the user experience and innovating business processes in ABAP-based SAP solutions by leveraging SAP Fiori, SAP HANA, and the cloud. 
+> It is a long-term strategic solution for ABAP development on SAP’s flagship product SAP S/4HANA, in the cloud and on-premise (as of release 1909), as well as on the SAP BTP ABAP Environment.
+
+>
+> The illustration below shows the high-level end-to-end development stack when working with RAP.  
+> 
+> ![RAP Big Picture](images/rap_bigpicture.png)
+> 
+> **Read more**: [Modernization with the ABAP RESTful Application Programming Model (RAP)](https://blogs.sap.com/2021/10/18/modernization-with-rap/)
+
+</details>
+
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are:
+- Installation of the latest ABAP Development Tools (ADT) 
+- User on a SAP BTP ABAP Environment or SAP S/4HANA 2022 (or higher) systems - e.g. SAP BTP ABAP Environment Trial
+
+PS: Registered session participants will have access to devices with pre-configured frontend tools and to a dedicated ABAP system.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Start the exercises [here](https://github.com/SAP-samples/abap-platform-rap-workshops/tree/main/rap1xx/rap100#exercises).
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
