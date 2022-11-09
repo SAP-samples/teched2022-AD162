@@ -32,7 +32,8 @@ The requirements to follow the exercises in this repository are:
 - Installation of the latest ABAP Development Tools (ADT) 
 - User on a SAP BTP ABAP Environment or SAP S/4HANA 2022 (or higher) systems - e.g. SAP BTP ABAP Environment Trial
 
-PS: Registered session participants will have access to devices with pre-configured frontend tools and to a dedicated ABAP system.
+> ⚠**Please note**⚠   
+> Registered session participants will have access to devices with pre-configured frontend tools and to a dedicated ABAP system.
 
 ## Exercises
 
