@@ -39,12 +39,17 @@ The requirements to follow the exercises in this repository are:
 
 ## Users and Service Key for session AD162
 
-> In the dedicated backend system **T22** we prepared users for you 
+> In the dedicated backend system **T22** we prepared users for you:
+> 
 > - username:  RAP100-**###**@teched.sap
-> - password:  WelcomeRAP!
+> - password:  WelcomeRAP!   
+> 
 > where **###** is your group number.   
-> The service key that you have to upload when creating the *ABAP Cloud Project* is stored locally on the laptop in this directory:   
+> 
+> The service key that you have to upload when creating the *ABAP Cloud Project* is stored locally on the laptop in this directory:
+>    
 > - Service Key: **C:\TecheEd\eclipse_2209\servicekeys**   
+>   
 
 ## Exercises
 
