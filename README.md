@@ -33,7 +33,9 @@ The requirements to follow the exercises in this repository are:
 - User on a SAP BTP ABAP Environment or SAP S/4HANA 2022 (or higher) systems - e.g. SAP BTP ABAP Environment Trial
 
 > ⚠**Please note**⚠   
-> Registered session participants will have access to devices with pre-configured frontend tools and to a dedicated ABAP system.
+> Session **AD162** is for participants of the on-site event that takes place in Las Vegas.   
+> If you have registered for the free virtual session **DT281** please [**navigate to DT281@SAP TechEd in 2022**](https://github.com/SAP-samples/teched2022-DT281/blob/main/README.md)  
+> Registered session participants will have access to devices with pre-configured frontend tools and to a dedicated ABAP system while participants of DT281 will use the trial systems.
 
 ## Exercises
 
