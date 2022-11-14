@@ -41,7 +41,7 @@ The requirements to follow the exercises in this repository are:
 
 > In the dedicated backend system **T22** we prepared users for you:
 > 
-> - username:  `RAP100-**###**@teched.sap`   
+> - username:  `RAP100-###@teched.sap`   
 > - password:  `WelcomeRAP!`      
 > 
 > where **###** is your group number.   
