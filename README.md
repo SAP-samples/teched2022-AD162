@@ -37,6 +37,19 @@ The requirements to follow the exercises in this repository are:
 > If you have registered for the free virtual session **DT281** please [**navigate to DT281@SAP TechEd in 2022**](https://github.com/SAP-samples/teched2022-DT281/blob/main/README.md)  
 > Registered session participants will have access to devices with pre-configured frontend tools and to a dedicated ABAP system while participants of DT281 will use the trial systems.
 
+## Users and Service Key for session AD162
+
+In the dedicated backend system **T22** we prepared users for you 
+
+- username:  RAP100-**###**@teched.sap
+- password:  WelcomeRAP!
+
+where **###** is your group number.   
+
+The service key that you have to upload when creating the *ABAP Cloud Project* is stored locally on the laptop in this directory:   
+
+- Service Key: **C:\TecheEd\eclipse_2209\servicekeys**   
+
 ## Exercises
 
 Start the exercises [here](https://github.com/SAP-samples/abap-platform-rap-workshops/tree/main/rap1xx/rap100#exercises).
