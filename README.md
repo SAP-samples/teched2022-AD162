@@ -51,6 +51,10 @@ The requirements to follow the exercises in this repository are:
 > - Service Key: `C:\TecheEd\eclipse_2209\servicekeys`      
 >   
 
+## Session presentation
+
+![document](images/doc.png) [PPTX](sources/AD162_RAP@SAP_TechEd_2022.pdf)
+
 ## Exercises
 
 Start the exercises [here](https://github.com/SAP-samples/abap-platform-rap-workshops/tree/main/rap1xx/rap100#exercises).
