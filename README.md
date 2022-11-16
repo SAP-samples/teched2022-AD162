@@ -53,7 +53,7 @@ The requirements to follow the exercises in this repository are:
 
 ## Session presentation
 
-![document](images/doc.png) [PPTX](sources/AD162_RAP@SAP_TechEd_2022.pdf)
+[Presentation PDF](sources/AD162_RAP@SAP_TechEd_2022.pdf)
 
 ## Exercises
 
