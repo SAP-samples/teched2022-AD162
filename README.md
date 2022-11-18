@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-AD162)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-AD162)
+
 # AD162 - Build and Extend Apps with ABAP RESTful Application Programming Model
 
 ## Description
